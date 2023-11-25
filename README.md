@@ -4,4 +4,4 @@ Console uygulamalarında kullanılmak üzere yazmış olduğum progressbar.
 
 Task kullanarak birbirinden bağımsız progressbarlar oluşturabilirsiniz.
 
-![Screenshot](screen/screenshot.png)
+![Screenshot](screens/screenshot.png)
